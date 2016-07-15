@@ -2,10 +2,12 @@
 //  ImageManager.swift
 //  MindPower
 //  
-//  Class: ImageManager
+//  Class: ImageManager -> Manage all about the random text and images that will appear in the main view.
 //  
 //  API methods 
-//  Function
+//  Functions: 
+//            getRandomQuestions -> will get a random question item from the questions array.
+//            getRandomImage -> will get a random image from the group "Images"
 //
 //  Created by Carlos Herrera Somet on 15/07/16.
 //  Copyright © 2016 Carlos H Somet. All rights reserved.

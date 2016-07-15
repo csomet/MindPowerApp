@@ -1,0 +1,357 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		EC0461631D390BD90080E040 /* image0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0461581D390BD90080E040 /* image0.jpg */; };
+		EC0461641D390BD90080E040 /* image1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0461591D390BD90080E040 /* image1.jpg */; };
+		EC0461651D390BD90080E040 /* image2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC04615A1D390BD90080E040 /* image2.jpg */; };
+		EC0461661D390BD90080E040 /* image3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC04615B1D390BD90080E040 /* image3.jpg */; };
+		EC0461671D390BD90080E040 /* image4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC04615C1D390BD90080E040 /* image4.jpg */; };
+		EC0461681D390BD90080E040 /* image5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC04615D1D390BD90080E040 /* image5.jpg */; };
+		EC0461691D390BD90080E040 /* image6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC04615E1D390BD90080E040 /* image6.jpg */; };
+		EC04616A1D390BD90080E040 /* image7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC04615F1D390BD90080E040 /* image7.jpg */; };
+		EC04616B1D390BD90080E040 /* image8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0461601D390BD90080E040 /* image8.jpg */; };
+		EC04616C1D390BD90080E040 /* image9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0461611D390BD90080E040 /* image9.jpg */; };
+		EC04616D1D390BD90080E040 /* imageIntro.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0461621D390BD90080E040 /* imageIntro.jpg */; };
+		EC6FDCE11D38568500DE893E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC6FDCE01D38568500DE893E /* AppDelegate.swift */; };
+		EC6FDCE31D38568500DE893E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC6FDCE21D38568500DE893E /* ViewController.swift */; };
+		EC6FDCE61D38568500DE893E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC6FDCE41D38568500DE893E /* Main.storyboard */; };
+		EC6FDCE81D38568500DE893E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC6FDCE71D38568500DE893E /* Assets.xcassets */; };
+		EC6FDCEB1D38568500DE893E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC6FDCE91D38568500DE893E /* LaunchScreen.storyboard */; };
+		EC6FDD041D385D1C00DE893E /* ImageManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC6FDD031D385D1C00DE893E /* ImageManager.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		EC0461581D390BD90080E040 /* image0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image0.jpg; sourceTree = "<group>"; };
+		EC0461591D390BD90080E040 /* image1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image1.jpg; sourceTree = "<group>"; };
+		EC04615A1D390BD90080E040 /* image2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image2.jpg; sourceTree = "<group>"; };
+		EC04615B1D390BD90080E040 /* image3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image3.jpg; sourceTree = "<group>"; };
+		EC04615C1D390BD90080E040 /* image4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image4.jpg; sourceTree = "<group>"; };
+		EC04615D1D390BD90080E040 /* image5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image5.jpg; sourceTree = "<group>"; };
+		EC04615E1D390BD90080E040 /* image6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image6.jpg; sourceTree = "<group>"; };
+		EC04615F1D390BD90080E040 /* image7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image7.jpg; sourceTree = "<group>"; };
+		EC0461601D390BD90080E040 /* image8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image8.jpg; sourceTree = "<group>"; };
+		EC0461611D390BD90080E040 /* image9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image9.jpg; sourceTree = "<group>"; };
+		EC0461621D390BD90080E040 /* imageIntro.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = imageIntro.jpg; sourceTree = "<group>"; };
+		EC6FDCDD1D38568500DE893E /* MindPower.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MindPower.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		EC6FDCE01D38568500DE893E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		EC6FDCE21D38568500DE893E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		EC6FDCE51D38568500DE893E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		EC6FDCE71D38568500DE893E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		EC6FDCEA1D38568500DE893E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		EC6FDCEC1D38568500DE893E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EC6FDD031D385D1C00DE893E /* ImageManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImageManager.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		EC6FDCDA1D38568500DE893E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		EC0461571D390BD90080E040 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				EC0461581D390BD90080E040 /* image0.jpg */,
+				EC0461591D390BD90080E040 /* image1.jpg */,
+				EC04615A1D390BD90080E040 /* image2.jpg */,
+				EC04615B1D390BD90080E040 /* image3.jpg */,
+				EC04615C1D390BD90080E040 /* image4.jpg */,
+				EC04615D1D390BD90080E040 /* image5.jpg */,
+				EC04615E1D390BD90080E040 /* image6.jpg */,
+				EC04615F1D390BD90080E040 /* image7.jpg */,
+				EC0461601D390BD90080E040 /* image8.jpg */,
+				EC0461611D390BD90080E040 /* image9.jpg */,
+				EC0461621D390BD90080E040 /* imageIntro.jpg */,
+			);
+			path = Images;
+			sourceTree = "<group>";
+		};
+		EC6FDCD41D38568500DE893E = {
+			isa = PBXGroup;
+			children = (
+				EC6FDCDF1D38568500DE893E /* MindPower */,
+				EC6FDCDE1D38568500DE893E /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		EC6FDCDE1D38568500DE893E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				EC6FDCDD1D38568500DE893E /* MindPower.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		EC6FDCDF1D38568500DE893E /* MindPower */ = {
+			isa = PBXGroup;
+			children = (
+				EC0461571D390BD90080E040 /* Images */,
+				EC6FDCE01D38568500DE893E /* AppDelegate.swift */,
+				EC6FDD031D385D1C00DE893E /* ImageManager.swift */,
+				EC6FDCE21D38568500DE893E /* ViewController.swift */,
+				EC6FDCE41D38568500DE893E /* Main.storyboard */,
+				EC6FDCE71D38568500DE893E /* Assets.xcassets */,
+				EC6FDCE91D38568500DE893E /* LaunchScreen.storyboard */,
+				EC6FDCEC1D38568500DE893E /* Info.plist */,
+			);
+			path = MindPower;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		EC6FDCDC1D38568500DE893E /* MindPower */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EC6FDCEF1D38568500DE893E /* Build configuration list for PBXNativeTarget "MindPower" */;
+			buildPhases = (
+				EC6FDCD91D38568500DE893E /* Sources */,
+				EC6FDCDA1D38568500DE893E /* Frameworks */,
+				EC6FDCDB1D38568500DE893E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MindPower;
+			productName = MindPower;
+			productReference = EC6FDCDD1D38568500DE893E /* MindPower.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		EC6FDCD51D38568500DE893E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0730;
+				LastUpgradeCheck = 0730;
+				ORGANIZATIONNAME = "Carlos H Somet";
+				TargetAttributes = {
+					EC6FDCDC1D38568500DE893E = {
+						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = 9VPSVC4NW9;
+					};
+				};
+			};
+			buildConfigurationList = EC6FDCD81D38568500DE893E /* Build configuration list for PBXProject "MindPower" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = EC6FDCD41D38568500DE893E;
+			productRefGroup = EC6FDCDE1D38568500DE893E /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				EC6FDCDC1D38568500DE893E /* MindPower */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		EC6FDCDB1D38568500DE893E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EC0461671D390BD90080E040 /* image4.jpg in Resources */,
+				EC0461681D390BD90080E040 /* image5.jpg in Resources */,
+				EC0461631D390BD90080E040 /* image0.jpg in Resources */,
+				EC04616C1D390BD90080E040 /* image9.jpg in Resources */,
+				EC0461641D390BD90080E040 /* image1.jpg in Resources */,
+				EC04616B1D390BD90080E040 /* image8.jpg in Resources */,
+				EC04616D1D390BD90080E040 /* imageIntro.jpg in Resources */,
+				EC6FDCEB1D38568500DE893E /* LaunchScreen.storyboard in Resources */,
+				EC6FDCE81D38568500DE893E /* Assets.xcassets in Resources */,
+				EC0461691D390BD90080E040 /* image6.jpg in Resources */,
+				EC0461651D390BD90080E040 /* image2.jpg in Resources */,
+				EC04616A1D390BD90080E040 /* image7.jpg in Resources */,
+				EC0461661D390BD90080E040 /* image3.jpg in Resources */,
+				EC6FDCE61D38568500DE893E /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		EC6FDCD91D38568500DE893E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EC6FDD041D385D1C00DE893E /* ImageManager.swift in Sources */,
+				EC6FDCE31D38568500DE893E /* ViewController.swift in Sources */,
+				EC6FDCE11D38568500DE893E /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		EC6FDCE41D38568500DE893E /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				EC6FDCE51D38568500DE893E /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		EC6FDCE91D38568500DE893E /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				EC6FDCEA1D38568500DE893E /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		EC6FDCED1D38568500DE893E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		EC6FDCEE1D38568500DE893E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		EC6FDCF01D38568500DE893E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				INFOPLIST_FILE = MindPower/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.csomet.MindPowerApp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+			};
+			name = Debug;
+		};
+		EC6FDCF11D38568500DE893E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				INFOPLIST_FILE = MindPower/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.csomet.MindPowerApp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		EC6FDCD81D38568500DE893E /* Build configuration list for PBXProject "MindPower" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EC6FDCED1D38568500DE893E /* Debug */,
+				EC6FDCEE1D38568500DE893E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EC6FDCEF1D38568500DE893E /* Build configuration list for PBXNativeTarget "MindPower" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EC6FDCF01D38568500DE893E /* Debug */,
+				EC6FDCF11D38568500DE893E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = EC6FDCD51D38568500DE893E /* Project object */;
+}
